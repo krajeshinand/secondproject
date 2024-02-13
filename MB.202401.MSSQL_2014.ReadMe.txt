@@ -1,0 +1,9 @@
+------------------------------------
+*** DATABASE EXPORT FILE DETAILS *** 
+------------------------------------
+EXPORT FILE   : *.bak.tar.gz [or] *.bacpac.tar.gz
+DATABASE NAME : 202401
+USER	      : dist
+MSSQL VERSION : 2014
+
+Please refer to the Database section of the user guides as a mandatory step before performing any database restoration activity. 
